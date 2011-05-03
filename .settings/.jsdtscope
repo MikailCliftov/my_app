@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="resources/" kind="src" path="apps/my_app"/>
+	<classpathentry kind="src" path="apps/my_app/resources"/>
+	<classpathentry excluding="resources/" kind="src" path="tmp/debug/build/static/my_app/en/current/source"/>
+	<classpathentry kind="src" path="tmp/debug/build/static/my_app/en/current/source/resources"/>
+	<classpathentry excluding="system/" kind="src" path="tmp/debug/staging/static/sproutcore/bootstrap/en/current"/>
+	<classpathentry kind="src" path="tmp/debug/staging/static/sproutcore/bootstrap/en/current/system"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
